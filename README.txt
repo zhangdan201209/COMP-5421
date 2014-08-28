@@ -1,0 +1,1 @@
+I change the code to print the output to screen and also i created a output file which is called output.txt
